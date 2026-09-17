@@ -24,4 +24,5 @@
 - Keighan Gemmell, University of British Columbia, Canada 
 - Júlia Crespin Esteve, Universitat de Barcelona, Spain
 - Anja Katzenberger, Potsdam Institute of Climate Impact Research, Germany 
+- Ezequiel Cimadevilla, Instituto de Física de Cantabria, Spain
 - ADD YOUR NAME AND AFFILIATION HERE 
